@@ -2,6 +2,7 @@
 
 ## Hi, I'm Luana, I'm a software engineering student and **programming teacher**.
 
+### Linguagens e Tecnologias
 <p>
     <img 
         align="left"
