@@ -23,9 +23,10 @@
 </p>
 
 
-### Estatíticas
+
 
 <p>
+    ### Estatíticas
     <img 
         align="left"
         alt="stats"
